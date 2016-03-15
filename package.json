@@ -1,0 +1,11 @@
+{
+  "name": "game-menu",
+  "version": "1.0.0",
+  "description": "A menu and inventory system for board games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
